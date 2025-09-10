@@ -1,0 +1,95 @@
+This programming paradigm is essential to understand and apply in various aspects of software development,
+
+including testing.
+
+In this lecture, we will discuss the core principles of Oop.
+
+Its benefits in testing and gain a better understanding of why it is such a widely used programming
+
+paradigm.
+
+Object oriented programming is a programming paradigm that focuses on organizing code into objects that
+
+represent real world entities.
+
+Each object is an instance of the class which can have attributes and methods.
+
+This organization makes it easier to model complex systems, manage dependencies and write reusable
+
+code.
+
+There are three key principles of Oop inheritance encapsulation and polymorphism.
+
+Let's discuss each one in detail.
+
+Inheritance allows one class to inherit attributes and methods from another class.
+
+The class that inherits is called the subclass or derived class, while the class being inherited from
+
+is called the base class or superclass.
+
+Inheritance enables code, reuse and modularity, making it easier to maintain and expand your code
+
+base.
+
+Encapsulation is the principle of bundling data attributes and functions methods that operate on that
+
+data within a single unit.
+
+The class.
+
+This approach helps to hide the implementation details from other parts of the code, making it easier
+
+to modify and maintain the code.
+
+Encapsulation also promotes data integrity by restricting direct access to an object's attributes.
+
+Polymorphism is the ability of the function or method to work with different types of data or the ability
+
+of different objects to respond to the same method call.
+
+This principle allows you to write more flexible and reusable code by defining a single interface for
+
+different classes and objects.
+
+Now that we understand the key principles of Oop, let's discuss the benefits of object oriented programming
+
+on the example of UI test automation.
+
+Specifically when implementing the page object model, let's start with modularity.
+
+Oop allows you to break down complex UI test automation tasks into manageable components such as individual
+
+page objects, making it easier to organize and maintain your test code code reusability.
+
+By using inheritance, you can create base page object for common UI elements and interactions.
+
+Then extend these base classes for specific pages in your application.
+
+This approach reduces code duplication and simplifies maintenance.
+
+Next, flexibility polymorphism enables you to create a more adaptable UI test automation framework
+
+that can handle different types of pages, elements and interactions without significant code changes.
+
+This is particularly useful when dealing with dynamic web applications or when testing across multiple
+
+platforms and browsers and maintainability encapsulation helps to create well-structured and self-contained
+
+page objects that keep the implementation details of UI interactions hidden from the test cases.
+
+This approach makes it easier to update and maintain your test suite when UI changes occur, as you
+
+only need to modify the relevant page objects, not the test cases themselves.
+
+In conclusion, object oriented programming is a powerful paradigm that can greatly benefit your test
+
+automation efforts, especially when implementing the page object model by understanding and applying
+
+the key principles of Oop inheritance, encapsulation and polymorphism.
+
+You.
+
+You will be able to create more organized, reusable and maintainable code for your test automation
+
+or other application.
